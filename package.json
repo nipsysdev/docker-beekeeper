@@ -7,7 +7,7 @@
   "description": "A basic Effect CLI application",
   "repository": {
     "type": "git",
-    "url": "https://github.com/nipsysdev/swarm-beekeeper"
+    "url": "https://github.com/nipsysdev/docker-beekeeper"
   },
   "publishConfig": {
     "access": "public",
